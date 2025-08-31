@@ -61,7 +61,7 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload
 Runs the FastAPI backend on http://localhost:8000.
 
-🧩 Example Quests
+###🧩 Example Quests
 🏋️ Fitness: “Go to gym for 1 hour”
 
 📚 Study: “Read 20 pages”
@@ -70,7 +70,7 @@ Runs the FastAPI backend on http://localhost:8000.
 
 🧘 Mindfulness: “Meditate for 10 minutes”
 
-🌍 SDG Alignment
+###🌍 SDG Alignment
 This project supports United Nations SDG 3: Good Health and Well-Being by:
 
 Encouraging physical health (exercise, hydration).
@@ -79,7 +79,7 @@ Supporting mental well-being (study, meditation).
 
 Strengthening social habits (connect with friends, self-accountability).
 
-📈 Roadmap
+###📈 Roadmap
  Add XP & progress bar system
 
  Add animations & richer rival reactions
@@ -90,8 +90,8 @@ Strengthening social habits (connect with friends, self-accountability).
 
  Social features (friends, rival battles)
 
-🤝 Contributing
+###🤝 Contributing
 Contributions are welcome! Fork the repo, create a feature branch, and open a PR.
 
-📜 License
+###📜 License
 MIT License © 2025 RivalQuest
