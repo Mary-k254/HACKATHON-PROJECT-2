@@ -62,45 +62,52 @@ uvicorn app.main:app --reload
 Runs the FastAPI backend on http://localhost:8000.
 
 ---
-###🧩 Example Quests
-🏋️ Fitness: “Go to gym for 1 hour”
+# 🏆 RivalQuest
+**Gamify your habits. Defeat your rival. Level up in real life.**
 
-📚 Study: “Read 20 pages”
-
-💧 Wellness: “Drink 8 glasses of water”
-
-🧘 Mindfulness: “Meditate for 10 minutes”
+RivalQuest turns your daily goals into quests — stay consistent, earn XP, and challenge yourself to grow stronger every day.
 
 ---
 
-###🌍 SDG Alignment
-This project supports United Nations SDG 3: Good Health and Well-Being by:
-
-Encouraging physical health (exercise, hydration).
-
-Supporting mental well-being (study, meditation).
-
-Strengthening social habits (connect with friends, self-accountability).
+## 🧩 Example Quests
+- 🏋️ **Fitness**: Go to gym for 1 hour  
+- 📚 **Study**: Read 20 pages  
+- 💧 **Wellness**: Drink 8 glasses of water  
+- 🧘 **Mindfulness**: Meditate for 10 minutes  
 
 ---
 
-###📈 Roadmap
- Add XP & progress bar system
+## 🌍 SDG Alignment
+This project contributes to **United Nations SDG 3: Good Health and Well-Being** by:  
 
- Add animations & richer rival reactions
-
- Implement push notifications
-
- Expand monetization (cosmetics via IntaSend)
-
- Social features (friends, rival battles)
+- ✅ **Encouraging physical health** (exercise, hydration)  
+- ✅ **Supporting mental well-being** (study, meditation)  
+- ✅ **Strengthening social habits** (connection, accountability)  
 
 ---
 
-###🤝 Contributing
-Contributions are welcome! Fork the repo, create a feature branch, and open a PR.
+## 📈 Roadmap
+Here’s what’s coming next for RivalQuest:  
+
+- [ ] 🎮 **Add XP & progress bar system**  
+- [ ] 🎭 **Add animations & richer rival reactions**  
+- [ ] 🔔 **Implement push notifications**  
+- [ ] 💎 **Expand monetization** (cosmetics via IntaSend)  
+- [ ] 🌐 **Add social features** (friends, rival battles)  
 
 ---
 
-###📜 License
-MIT License © 2025 RivalQuest
+## 🤝 Contributing
+We’d love your help to improve RivalQuest!  
+
+1. 🍴 **Fork** the repo  
+2. 🌱 **Create** a feature branch  
+3. 💻 **Commit** your changes  
+4. 🚀 **Open** a Pull Request  
+
+---
+
+## 📜 License
+**MIT License © 2025 RivalQuest**  
+
+---
